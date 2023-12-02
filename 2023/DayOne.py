@@ -3,7 +3,7 @@ import re
 """
 This solves the second problem, I overwrote the code to solve the first problem with this one.
 """
-pathToFile = "C:/Users/David/PycharmProjects/AdventOfCode/2023/DayOneInputOne.txt"
+pathToFile = "C:/Users/David/PycharmProjects/AdventOfCode/2023/DayOneInput.txt"
 answer = 0
 wordToInt = {'one': '1', 'two': '2', 'three': '3', 'four': '4', 'five': '5', 'six': '6', 'seven': '7', 'eight': '8', 'nine': '9'}
 
